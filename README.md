@@ -43,7 +43,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,html,css,js,ts,react,vite,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,mysql,postgres,django,git,github,vscode,visualstudio,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,html,css,js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,vscode,visualstudio,linux" />
   </a>
 </p>
 
