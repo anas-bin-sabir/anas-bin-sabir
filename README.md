@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | CS Student | Learning new technologies
 
-![Visitor Count](https://komarev.com/ghpvc/?username=up33anas&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=anas-bin-sabir&color=green)
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Pixel Mario Banner" width="100%">
 
@@ -52,7 +52,7 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 ## 🌍 Socials  
 
 <p align="center">
-  <a href="https://github.com/up33anas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/anas-bin-sabir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anas-sabir-6719b4333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/1283105507158130768"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://x.com/RealAnasSabir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -63,8 +63,8 @@ I’m enthusiastic about **freelancing, collaborations, and internships**, where
 
 ## 📊 GitHub Stats  
 
-<details> <summary>Click to Expand 📈</summary> <br/> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-stats.vercel.app/api?username=up33anas&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/> </a> </p> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=up33anas&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/> </a> </p> <p align="center"> <a href="https://github.com/up33anas"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=up33anas&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/> </a> </p> </details>
+<details> <summary>Click to Expand 📈</summary> <br/> <p align="center"> <a href="https://github.com/anas-bin-sabir"> <img src="https://github-readme-stats.vercel.app/api?username=anas-bin-sabir&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/> </a> </p> <p align="center"> <a href="https://github.com/anas-bin-sabir"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-bin-sabir&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/> </a> </p> <p align="center"> <a href="https://github.com/anas-bin-sabir"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-bin-sabir&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/> </a> </p> </details>
 
 ---
 
-⭐️ From [Anas Sabir](https://github.com/up33anas)  
+⭐️ From [Anas Sabir](https://github.com/anas-bin-sabir)  
