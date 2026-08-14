@@ -10,31 +10,31 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **CS student at UET Lahore** with a passion for full-stack development and a growing focus on **AI/ML**. I enjoy turning ideas into clean, functional, and meaningful solutions — from frontend interfaces to backend systems.
 
-- 🔭 Building projects with genuine technical depth, not just API wrappers
-- 🌱 Currently deepening my skills in **AI/ML** alongside full-stack development
-- 💡 Believe CS is a journey of discovery, not just a degree
-- ⚡ Thrive on debugging, late nights, and solving hard problems
-- 🤝 Open to **freelancing, collaborations, and internships**
+- Building projects with genuine technical depth, not just API wrappers
+- Currently deepening my skills in **AI/ML** alongside full-stack development
+- Believe CS is a journey of discovery, not just a degree
+- Thrive on debugging, late nights, and solving hard problems
+- Open to **freelancing, collaborations, and internships**
 
 ---
 
-## 📍 Quick Facts
+## Quick Facts
 
 | | |
 |---|---|
-| 📍 **Location** | Lahore, Pakistan |
-| 📧 **Email** | [anassabir1072@gmail.com](mailto:anassabir1072@gmail.com) |
-| 🎓 **Studying** | Computer Science, UET Lahore |
-| 🚀 **Currently learning** | AI/ML, new frameworks & tools |
+| **Location** | Lahore, Pakistan |
+| **Email** | [anassabir1072@gmail.com](mailto:anassabir1072@gmail.com) |
+| **Studying** | Computer Science, UET Lahore |
+| **Currently learning** | AI/ML, new frameworks & tools |
 | 🥷 **Fun fact** | Secretly a ninja and part-time knight… don't tell anyone 💀 |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <p align="left">
@@ -68,7 +68,7 @@ I'm a **CS student at UET Lahore** with a passion for full-stack development and
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="center">
   <a href="https://github.com/anas-bin-sabir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -80,7 +80,7 @@ I'm a **CS student at UET Lahore** with a passion for full-stack development and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anas-bin-sabir&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%"/>
@@ -92,7 +92,7 @@ I'm a **CS student at UET Lahore** with a passion for full-stack development and
 </p>
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
+<summary> GitHub Trophies</summary>
 <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anas-bin-sabir&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
@@ -100,7 +100,7 @@ I'm a **CS student at UET Lahore** with a passion for full-stack development and
 </details>
 
 <details>
-<summary>📈 Contribution Graph</summary>
+<summary> Contribution Graph</summary>
 <br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-bin-sabir&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF" alt="Activity Graph"/>
